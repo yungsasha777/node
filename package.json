@@ -1,0 +1,21 @@
+{
+  "name": "new-new-32",
+  "version": "1.0.0",
+  "description": "na",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "none",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
